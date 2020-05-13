@@ -38,171 +38,166 @@ entries:
     - title: Thông Tin Pháp Lý
       url: /About_Binbol_Thong_Tin_Phap_Ly.html
       output: web, pdf    
-
-  
   
   - title: CMS Controller
     output: web, pdf
     folderitems:
+    
+    - tittle: Giao diện chung
+      url: /CMS_Main_Interface.html
+      output: web, pdf
 
     - title: Dashboard
-      url: /mydoc_release_notes_60.html
+      url: /CMS_Dashboard.html
       output: web, pdf
 
     - title: Categories
-      url: /mydoc_release_notes_50.html
+      url: /CMS_Categories.html
       output: web, pdf
       
     - title: Articles
-      url: /mydoc_release_notes_60.html
+      url: /CMS_Articles.html
       output: web, pdf
 
     - title: News
-      url: /mydoc_release_notes_50.html
+      url: /CMS_News.html
       output: web, pdf
       
     - title: Comments
-      url: /mydoc_release_notes_60.html
+      url: /CMS_Comments.html
       output: web, pdf
 
     - title: Events
-      url: /mydoc_release_notes_50.html
+      url: /CMS_Events.html
       output: web, pdf
       
     - title: Products
-      url: /mydoc_release_notes_60.html
+      url: /CMS_Products.html
       output: web, pdf
 
-    - title: Slide Show
-      url: /mydoc_release_notes_50.html
+    - title: Slide Show 
+      url: /CMS_Slide_Show.html
       output: web, pdf
       
     - title: Business Information
-      url: /mydoc_release_notes_60.html
+      url: /CMS_Business_Information.html
       output: web, pdf
 
-    - title: Supplers
-      url: /mydoc_release_notes_50.html
+    - title: Suppliers
+      url: /CMS_Suppliers.html
       output: web, pdf
       
     - title: Members
-      url: /mydoc_release_notes_60.html
+      url: /CMS_Members.html
       output: web, pdf
 
     - title: Spam List
-      url: /mydoc_release_notes_50.html
+      url: /CMS_Spam_List.html
       output: web, pdf
       
     - title: Packets
-      url: /mydoc_release_notes_60.html
+      url: /CMS_Packets.html
       output: web, pdf
 
     - title: Promotion
-      url: /mydoc_release_notes_50.html
+      url: /CMS_Promotion.html
       output: web, pdf
       
     - title: Point Role
-      url: /mydoc_release_notes_60.html
+      url: /CMS_Point_Role.html
       output: web, pdf
 
     - title: Currency
-      url: /mydoc_release_notes_50.html
+      url: /CMS_Currency.html
       output: web, pdf
       
     - title: Review
-      url: /mydoc_release_notes_60.html
+      url: /CMS_Review.html
       output: web, pdf
 
     - title: Point Use
-      url: /mydoc_release_notes_50.html
+      url: /CMS_Point_Use.html
       output: web, pdf
       
     - title: Sales Management
-      url: /mydoc_release_notes_60.html
+      url: /CMS_Sales_Management.html
       output: web, pdf
 
     - title: Manufacturing Management
-      url: /mydoc_release_notes_50.html
+      url: /CMS_Manufacturing_Management.html
       output: web, pdf
       
     - title: Payment
-      url: /mydoc_release_notes_60.html
+      url: /CMS_Payment.html
       output: web, pdf
 
     - title: Email
-      url: /mydoc_release_notes_50.html
+      url: /CMS_Email.html
       output: web, pdf
       
     - title: Media File
-      url: /mydoc_release_notes_60.html
+      url: /CMS_Media_File.html
       output: web, pdf
 
     - title: Users
-      url: /mydoc_release_notes_50.html
+      url: /CMS_Users.html
       output: web, pdf
       
     - title: Configs
-      url: /mydoc_release_notes_60.html
+      url: /CMS_Configs.html
       output: web, pdf
 
     - title: Feedback
-      url: /mydoc_release_notes_50.html
+      url: /CMS_Feedback.html
       output: web, pdf
       
     - title: Languages
-      url: /mydoc_release_notes_60.html
+      url: /CMS_Languages.html
       output: web, pdf
 
     - title: Translate
-      url: /mydoc_release_notes_50.html
+      url: /CMS_Translate.html
       output: web, pdf
     
     - title: Trash
-      url: /mydoc_release_notes_60.html
+      url: /CMS_Trash.html
       output: web, pdf
 
     - title: Setting General
-      url: /mydoc_release_notes_50.html
+      url: /CMS_Setting_General.html
       output: web, pdf
       
     - title: Logs
-      url: /mydoc_release_notes_60.html
+      url: /CMS_Logs.html
       output: web, pdf
-     
-     
-  
   
   - title: Main Home
     output: web, pdf    
     folderitems:
     
     - title: Sản Phẩm
-      url:  /mydoc_about.html
+      url:  /San_Pham.html
       output: web, pdf
-      # folderitems:
-        # - title: Pages
-        # url: /mydoc_pages.html
-        # output: web, pdf
 
     - title: Kiến Thức
-      url: /tocpage.html
+      url: /Kien_Thuc.html
       output: web, pdf    
 
     - title: Tin Tức
-      url: /tocpage.html
+      url: /Tin_Tuc.html
       output: web, pdf   
 
     - title: Sự Kiện
-      url: /tocpage.html
+      url: /Su_Kien.html
       output: web, pdf
 
     - title: Giỏ Hàng
-      url: /tocpage.html
+      url: /Gio_Hang.html
       output: web, pdf 
 
  
  
-  - title: Kế Hoạch Phát Triển Binbol
+  - title: Kế Hoạch Phát Triển
     output: web, pdf
 
     folderitems:
